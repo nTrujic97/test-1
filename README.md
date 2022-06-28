@@ -5,3 +5,4 @@ Ovo je readme fajl:
 3. git add -A - Omogucava ti pamcenje promene,
 4. git commit -m "Neka komit poruka",
 5. git push -u origin HEAD - Gurnuo si trenutne izmene i granu na remote (github)
+6. git push - ako grana nije merge-ovana na master i push-ovao si nove izmene bice prikazane kao komitovi
